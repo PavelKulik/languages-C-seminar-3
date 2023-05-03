@@ -1,6 +1,4 @@
-﻿using System;
-
-internal class Program
+﻿internal partial class Program_1
 {
     private static void Main(string[] args)
     {
